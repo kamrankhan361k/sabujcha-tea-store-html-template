@@ -1,0 +1,7 @@
+Date:  26-11-2022
+
+Version: 2.0
+
+===================
+
+01. Bootstrap Framework 5 to v5.2.3 Update
